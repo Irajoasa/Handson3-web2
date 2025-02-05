@@ -17,7 +17,7 @@ function App() {
         <tbody>
           <tr>
             <td className="border border-gray-400 px-4 py-2">2281066</td>
-            <td className="border border-gray-400 px-4 py-2">irajoasa paranginangin</td>
+            <td className="border border-gray-400 px-4 py-2">Irajoasa Peranginangin</td>
             <td className="border border-gray-400 px-4 py-2">Teknik Informatika</td>
             <td className="border border-gray-400 px-4 py-2">2281066@unai.edu</td>
             <td className="border border-gray-400 px-4 py-2">Ngoding</td>
